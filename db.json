@@ -50,23 +50,29 @@
 }               
 ],
 "rmIndicator":[{
-"rmid":"10"
+"rmid":"10",
+"rmname:"10"
 },
 {
-"rmid":"20"
+"rmid":"20",
+  "rmname:"10"
 },  
 {
-"rmid":"24"
+"rmid":"24",
+  "rmname:"10"
 }               
 ],
 "rmCd":[{
-"rcd":"10"
+"rcd":"10",
+  "rmname:"10"
 },
 {
-"rcd":"20"
+"rcd":"20",
+ "rmname:"10" 
 },  
 {
-"rcd":"24"
+"rcd":"24",
+  "rmname:"10"
 }               
 ]   
 }
