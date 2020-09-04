@@ -36,7 +36,7 @@
 "name":"N"
 }
 ],
- "wagonType":[{
+  "wagonType":[{
 "wtypeid":"01",
 "wtypename":"BOST"
 },
