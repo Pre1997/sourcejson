@@ -17,5 +17,14 @@
 "tid":"0234",
 "tname":"cde"
 }
+],
+  "trainNo":[{
+"tid":"0123",
+"tname":"abc"
+},
+{
+"tid":"0234",
+"tname":"cde"
+}
 ]
 }
