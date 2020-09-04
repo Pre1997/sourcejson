@@ -35,5 +35,38 @@
 "id":"02",
 "name":"N"
 }
+],
+  "wagonType":[{
+"wtypeid":"01",
+"wtypename":"BOST"
+},
+{
+"wtypeid":"02",
+"wtypename":"BOBSN"
+},  
+{
+"wtypeid":"03",
+"wtypename":"BOXN"
+}               
+],
+   "RakeIndicator":[{
+"rid":"10"
+},
+{
+"rid":"21"
+},  
+{
+"rid":"24"
+}               
+],
+   "RmCd":[{
+"cd":"10"
+},
+{
+"cd":"21"
+},  
+{
+"cd":"24"
+}               
 ]
 }
