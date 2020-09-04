@@ -36,7 +36,7 @@
 "name":"N"
 }
 ],
-  "wagonType":[{
+"wagonType":[{
 "wtypeid":"01",
 "wtypename":"BOST"
 },
@@ -49,7 +49,7 @@
 "wtypename":"BOXN"
 }               
 ],
-   "RakeIndicator":[{
+"rakeIndicator":[{
 "rid":"10"
 },
 {
