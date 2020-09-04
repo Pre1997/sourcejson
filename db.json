@@ -48,16 +48,5 @@
 "wtypeid":"03",
 "wtypename":"BOXN"
 }               
-],
-  "rmId": [{
-    
-      "rmid": "10"
-    },
-    {
-      "rmid": "21"
-    },
-    {
-      "rmid": "24"
-    }
-  ]
+]
 }
