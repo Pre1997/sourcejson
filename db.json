@@ -18,13 +18,22 @@
 "tname":"cde"
 }
 ],
-  "trainNo":[{
-"tid":"0123",
-"tname":"abc"
+  "Yard":[{
+"yid":"01",
+"yname":"Y1"
 },
 {
-"tid":"0234",
-"tname":"cde"
+"yid":"02",
+"yname":"Y2"
+}
+],
+  "indicator":[{
+"id":"01",
+"name":"Y"
+},
+{
+"id":"02",
+"name":"N"
 }
 ]
 }
