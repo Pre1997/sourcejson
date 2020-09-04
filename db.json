@@ -52,14 +52,6 @@
 "rmIndicator":[{
 "rmid":"10",
 "rmname":"10"
-},
-{
-"rmid":"20",
- "rmname":"10"
-},  
-{
-"rmid":"24",
- "rmname":"10"
-}               
+}             
 ] 
 }
