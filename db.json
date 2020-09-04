@@ -9,4 +9,18 @@
 "sname":"Delhi"
 }
 ]
+  "trainNo":[{
+"tid":"123",
+"tname":"abc"
+},
+{
+"tid":"456",
+"tname":"def"
+},
+{
+"tid":"789",
+"tname":"ghi"
+}
+
+]
 }
