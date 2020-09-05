@@ -48,31 +48,6 @@
 "wtypeid":"03",
 "wtypename":"BOXN"
 }               
-],
- "rakeIndicator":[{
-"rid":"01",
-"rvalue":"10"
-},
-{
-"rid":"02",
-"rvalue":"21"
-},
-{
-"rid":"03",
-"rvalue":"24"
-}
-], 
-   "rmCd":[{
-"rmid":"01",
-"rmvalue":"10"
-},
-{
-"rmid":"02",
-"rmvalue":"21"
-},
-{
-"rmid":"03",
-"rmvalue":"24"
-}
-] 
+]
+
 }
